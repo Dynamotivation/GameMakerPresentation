@@ -1,0 +1,1 @@
+image_angle += rotationDirection * (image_index + 1);
